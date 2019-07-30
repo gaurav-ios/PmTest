@@ -1,0 +1,6 @@
+framework module Pods_PMFramwork {
+  umbrella header "Pods-PMFramwork-umbrella.h"
+
+  export *
+  module * { export * }
+}
